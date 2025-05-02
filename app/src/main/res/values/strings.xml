@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Pathfinder</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="name">Name</string>
+    <string name="history">History</string>
+    <string name="personal_details">Personal Details</string>
+    <string name="map_key" translatable="false">AIzaSyCHSq88VNCOxt-VuTHY7BeMgY_1P4eYak4</string>
+    <string name="from">From</string>
+    <string name="to">To</string>
+</resources>
